@@ -14,7 +14,7 @@ def random_char(y):
 for x in range(0, repeat): 
     data = {
         "_type": "CreateHighriseUserRequest",
-        "username": (random_char(20)), #username cannot exceed 20 characters
+        "username": (random_char(15)), #username cannot exceed 20 characters
         "email": (random_char(20)) + "@highrise.game",
         "password": (random_char(15)) #password need more than 5 characters
     }
