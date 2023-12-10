@@ -1,2 +1,2 @@
 # HighRise account generator
-generate random accounts in highrise.game using python.
+generate random bot accounts on highrise.game using python.
