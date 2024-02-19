@@ -1,5 +1,5 @@
 # HighRise account generator
-generate random bot accounts on highrise.game using python.
+generate random empty accounts on highrise.game using python.
 
 ## 2024 update
 code is still working, it's possible to stop working or generate only few accounts by their captcha changes
