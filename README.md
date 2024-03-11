@@ -6,4 +6,4 @@ code is still working, it's possible to stop working or generate only few accoun
 ![nothing hre](https://i.postimg.cc/MGh1971V/Screenshot-from-2024-02-19-23-44-01.png)
 
 ## usage
-download *index.py* and run it whatever you want. eazy
+download *index.py* and run it whatever you want.
